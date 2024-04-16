@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GROUP_SHUFFLER</string>
+    <string name="assign_groups">Assign Groups</string>
+    <string name="enter_number_of_groups">Enter number of groups</string>
+    <string name="enter_players_separated_by_commas">Enter players separated by commas</string>
+    <string name="enter_players_separated_by_commas2">Enter players separated by commas</string>
+    <string name="enter_number_of_groups1">Enter number of groups</string>
+    <string name="rate_groups">Rate Groups</string>
+    <string name="assign_groups1">Assign Groups</string>
+</resources>
